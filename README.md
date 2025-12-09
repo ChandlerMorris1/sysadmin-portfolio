@@ -12,7 +12,7 @@ This repository will contain all my hands-on projects as I build skills in:
 - Networking Fundamentals  
 - Virtual Machines & Cloud Infrastructure  
 
-## Upcoming Projects (2024–2025)
+## Upcoming Projects (2026)
 These will be added as I complete them:
 
 ###  Active Directory Airline Environment
